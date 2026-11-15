@@ -29,7 +29,7 @@ Email Me 👉 ✉️ binarymind24@gmail.com For Collaboration/Project or Anythin
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32765507/snehal-thombare)
 [![Quora](https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora&logoColor=white)](https://www.quora.com/profile/Binary-Mind-3)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat\&logo=youtube\&logoColor=white)](https://www.youtube.com/results?search_query=Think+with+Shamani)
-[![YouTuber](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@thedreamlineauto)
+[![YouTuberr](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@thedreamlineauto)
 
 ## 🌍 Open Source Contributions
 | Repository | Contribution | Status |
