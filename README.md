@@ -60,12 +60,10 @@ Email Me 👉 ✉️ binarymind24@gmail.com For Collaboration/Project or Anythin
 ![Object Detection](https://img.shields.io/badge/OBJECT_DETECTION-FF4B2B?style=for-the-badge)
 ![Pillow](https://img.shields.io/badge/PILLOW-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🤖 Robotics & Automation
+### 🤖 Programming Language
 
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/GAZEBO-FF6600?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### ✨ Generative AI & LLM Tools
 
