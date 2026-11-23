@@ -22,6 +22,7 @@ Email Me 👉 ✉️ binarymind24@gmail.com For Collaboration/Project or Anythin
 - Best Blogger,Youtuber ,49 Medalist 😎.
 - 16 + ScolarshipExam Crack.
 - Topper Upto 12 th std.
+- Winner of Wisdom Exam (2023)
 
 ## 🏆 Competitive Profiles
 
