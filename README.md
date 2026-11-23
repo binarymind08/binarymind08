@@ -17,6 +17,9 @@ Email Me 👉 ✉️ binarymind24@gmail.com For Collaboration/Project or Anythin
 - 💬 *Ask me about:* DSA, Codeforces, CodeChef, AI & Tech
 - 📫 *How to reach me:* binarymind24@gmail.com
 - ⚡ *Fun fact:* I love solving coding problems and participating in coding contests 😎
+- Founder : Founder & Leader
+           Team Binary Mind
+           Established 6 clubs across Space, Web Development, Cyber Security, Digital Marketing, Science, and AI/ML.
 
 ## 🏆 Competitive Profiles
 
