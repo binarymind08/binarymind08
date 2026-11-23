@@ -20,6 +20,8 @@ Email Me 👉 ✉️ binarymind24@gmail.com For Collaboration/Project or Anythin
 - Founder : Founder & Leader
            Team Binary Mind
            Established 6 clubs across Space, Web Development, Cyber Security, Digital Marketing, Science, and AI/ML.
+- Best Blogger,Youtuber ,49 Medalist 😎.
+- 16 + ScolarshipExam Crack.
 
 ## 🏆 Competitive Profiles
 
